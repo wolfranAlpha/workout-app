@@ -20,9 +20,10 @@ For each candidate the exercise might look a little bit different - discuss with
 
 ## The Exercise
 
-You will be creating an application (FE + BE) for managing workouts built by users.You may take exercuses from 
+You will be creating an application (FE + BE) for managing workouts built by users.You may take exercuses from https://exrx.net/ . You don't need a lot of data, just make sure that it is varied.
 
-The exercise is split into two parts: https://exrx.net/ . You don't need a lot of data, just make sure that it is varied.
+
+The exercise is split into two parts: 
 
 * design
 * implementation

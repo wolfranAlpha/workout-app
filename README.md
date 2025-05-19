@@ -20,8 +20,7 @@ For each candidate the exercise might look a little bit different - discuss with
 
 ## The Exercise
 
-You will be creating an application (FE + BE) for managing workouts built by users.You may take exercuses from https://exrx.net/ . You don't need a lot of data, just make sure that it is varied.
-
+You will be creating an application (FE + BE) for managing workouts built by users. You may take exercises from https://exrx.net/ . You don't need a lot of data, just make sure that it is varied.
 
 The exercise is split into two parts: 
 
@@ -32,7 +31,7 @@ The exercise is split into two parts:
 
 There are a lot of requirements - read the SRD and make sure that you understand all of the requirements.
 
-Create a design document in your pprefered format. It should help your reviewer understand your intentions for implementing the application. Make sure to include a description of your API, the backend architecture, and anything else that you feel would help someone understand your implementation.
+Create a design document in your prefered editor. It should help your reviewer understand your intentions for implementing the application. Make sure to include a description of your API, the backend architecture, and anything else that you feel would help someone understand your implementation.
 
 As part of your design, make sure to include a mock of the FE - created in whatever interface you prefer - such that we can understand how a user will interract with the flows in your application.
 
